@@ -1,0 +1,5 @@
+{
+    "mdb.shell": "mongosh",
+    "mdb.connectionSaving.defaultConnectionSavingLocation": "Workspace",
+    "mdb.confirmDeleteDocument": true
+}
